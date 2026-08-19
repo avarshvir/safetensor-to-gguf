@@ -13,7 +13,7 @@ I have created this repo to convert safetensor models in GGUF format using colab
 --- 
 
 ## Which problem its Solves?
-Usually you may have to download llama cpp library and need to download safetensor locally 
+Usually you may have to download llama cpp library, safetensor models locally and set the configs which sometime becomes so difficult, time consuming and resouce contraintations. so I created some scripts where you can convert safetensor weights into GGUF format and can also quantized them. It helps in faster development, easy to understand, and enough resource computation. Under the hood it uses llama for conversion.
 
 
 ---
